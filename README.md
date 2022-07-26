@@ -36,5 +36,7 @@ A) argparse
 B) docopt
 
 for install this package enter this commands in commands line : 
+
 `pip install argparse`
+
 `pip install docopt==0.6.2`
